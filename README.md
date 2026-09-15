@@ -8,3 +8,5 @@ Today I joined  a "startup" and learned about commits.
 | ---- | ---- |
 | You  | Founder |
 | ...  | ... |
+
+![status](https://img.shields.io/badge/status-building-blue)
